@@ -1,3 +1,5 @@
+# Python code inspired by https://www.youtube.com/watch?v=XQgXKtPSzUI 
+
 from bs4 import BeautifulSoup
 import requests
 
